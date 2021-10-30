@@ -1,0 +1,37 @@
+#main #title{
+  font-size: 35px;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+}
+#main #img-div{
+  background-color: gainsboro;
+}
+#main #img-div img{
+  margin-top: 15px;
+  width: 100%;
+}
+#main #img-div figcaption{
+  text-align: center;
+}
+#tribute-page{
+  background-color: gainsboro;
+  box-shadow: 10px 10px 5px #888888;
+  margin: auto;
+  width: 90%;
+}
+#tribute-page h2{
+  text-align: center;
+}
+#tribute-info{
+  text-align: center;
+}
+#tribute-page ul{
+  padding: 5px;
+  margin: 20px;
+  font-size: 25px;
+  font-style: italic; 
+}
+#tribute-page li a{
+  text-decoration: none;
+}
