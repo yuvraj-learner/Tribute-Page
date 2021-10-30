@@ -1,3 +1,3 @@
 # Tribute-Page
 
-freecodecamp REsponsive Web Design Project 
+freecodecamp Responsive Web Design Project 
