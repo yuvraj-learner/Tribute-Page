@@ -1,4 +1,5 @@
 # Tribute-Page
+This is a Chester Bennington Tribute page
 
 freecodecamp Responsive Web Design Project
 
